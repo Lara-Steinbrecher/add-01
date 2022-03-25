@@ -10,4 +10,4 @@ Curso: 5to 1ra Avionica
 Materia: Adquisicion de Datos
 
 
-[https://wowki.com/projects/327102594940928594]
+[https://wokwi.com/projects/327102594940928594]
